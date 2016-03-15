@@ -1,0 +1,20 @@
+//SPRING/AMQP RabbitMQ *******************************************************************
+
+//RabbitMQ: Message that Just Works (Part 1)
+https://www.youtube.com/watch?v=puMLEy5kk2s&index=2&list=PLa2N8kjIXIWpPkLeLVDpShEzWjqcF_yvv
+//RabbitMQ: Message that Just Works (Part 2)
+https://www.youtube.com/watch?v=puMLEy5kk2s&index=2&list=PLa2N8kjIXIWpPkLeLVDpShEzWjqcF_yvv
+//RabbitMQ: Message that Just Works (Part 3)
+https://www.youtube.com/watch?v=bUA0fMJGQBE&index=3&list=PLa2N8kjIXIWpPkLeLVDpShEzWjqcF_yvv
+//Message Driven Architecture (Part 1)
+https://www.youtube.com/watch?v=NAWpVS8t_Ug&list=PLa2N8kjIXIWpPkLeLVDpShEzWjqcF_yvv&index=4
+//Message Driven Architecture (Part 3)
+https://www.youtube.com/watch?v=R8IJHbqj-x4&list=PLa2N8kjIXIWpPkLeLVDpShEzWjqcF_yvv&index=5
+
+//*******************************************************************
+
+//SITE: tutorials
+	//AMQP_rabbitMQ_proj001_first
+	https://www.rabbitmq.com/tutorials/tutorial-one-java.html
+
+

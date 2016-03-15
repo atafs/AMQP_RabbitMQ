@@ -1,0 +1,3 @@
+//Advanced Message Queuing Protocol (AMQP)
+AMQP_RabbitMQ
+
