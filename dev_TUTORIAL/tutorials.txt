@@ -12,9 +12,13 @@ https://www.youtube.com/watch?v=NAWpVS8t_Ug&list=PLa2N8kjIXIWpPkLeLVDpShEzWjqcF_
 https://www.youtube.com/watch?v=R8IJHbqj-x4&list=PLa2N8kjIXIWpPkLeLVDpShEzWjqcF_yvv&index=5
 
 //*******************************************************************
-
 //SITE: tutorials
 	//AMQP_rabbitMQ_proj001_first
 	https://www.rabbitmq.com/tutorials/tutorial-one-java.html
+	//SUCCESS ----------------------------------------------
+
+	//Work Queues
+	https://www.rabbitmq.com/tutorials/tutorial-two-java.html
+
 
 
