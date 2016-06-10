@@ -1,0 +1,11 @@
+//*******************************************************************
+//SITE: tutorials
+//AMQP_rabbitMQ_proj001_first
+https://www.rabbitmq.com/tutorials/tutorial-one-java.html
+//SUCCESS ----------------------------------------------
+
+//Work Queues
+https://www.rabbitmq.com/tutorials/tutorial-two-java.html
+
+
+

@@ -1,0 +1,2 @@
+//PROTOCOL: AMQP(advanced-messaging-queueing-protocol)
+This tutorial uses AMQP 0-9-1

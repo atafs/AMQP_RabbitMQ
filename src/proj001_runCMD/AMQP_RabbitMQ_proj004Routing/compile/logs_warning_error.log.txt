@@ -1,0 +1,7 @@
+ [*] Waiting for messages. To exit press CTRL+C
+ [x] Received 'error':'error Run. Run. Or it will explode.'
+ [x] Received 'warning':'warning Run. Run. Or it will go yellow.'
+ [x] Received 'error':'error Run. Run. Or it will explode.'
+ [x] Received 'warning':'warning Run. Run. Or it will go yellow.'
+ [x] Received 'error':'error Run. Run. Or it will explode.'
+ [x] Received 'warning':'warning Run. Run. Or it will go yellow.'
